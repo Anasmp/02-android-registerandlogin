@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="minimum_password">minumum</string>
+    <string name="auth_failed">failed</string>
+
+
+</resources>
